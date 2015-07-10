@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<vocabulary>
+    <map>
+        <entry>
+            <key>read</key>
+            <value>читаю</value>
+        </entry>
+        <entry>
+            <key>cat</key>
+            <value>кішка</value>
+        </entry>
+        <entry>
+            <key>book</key>
+            <value>книга</value>
+        </entry>
+        <entry>
+            <key>I</key>
+            <value>Я</value>
+        </entry>
+    </map>
+</vocabulary>
